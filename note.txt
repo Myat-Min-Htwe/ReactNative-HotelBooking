@@ -1,0 +1,42 @@
+// const handleHotlinePress = () => {
+  //   const phoneNumber = `tel:${hotel.phone}`;
+  //   Linking.openURL(phoneNumber);
+  // };
+  {/* <Card>
+              <Card.Cover
+                style={{ borderRadius: 0 }}
+                source={{ uri: `${hotel.attachment}` }}
+              />
+              <Card.Content
+                style={{ width: wp(90) }}
+                className="bg-gray-900 rounded-b-lg"
+              >
+                <Text
+                  style={{ fontSize: hp(3) }}
+                  className="text-orange-400 mt-2"
+                >
+                  {hotel.name}
+                </Text>
+                <Text
+                  style={{ fontSize: hp(2.2) }}
+                  className="text-sky-200 mt-4"
+                >
+                  Hotline :{" "}
+                  <Text
+                    style={{ textDecorationLine: "underline" }}
+                    className="text-blue-600"
+                    onPress={handleHotlinePress}
+                  >
+                    {hotel.phone}
+                  </Text>
+                </Text>
+                <Text
+                  variant="bodyMedium"
+                  style={{ fontSize: hp(2.2) }}
+                  className="text-sky-200 mt-4"
+                >
+                  Address :{" "}
+                  <Text className="text-neutral-50">{hotel.address}</Text>
+                </Text>
+              </Card.Content>
+            </Card> */}
